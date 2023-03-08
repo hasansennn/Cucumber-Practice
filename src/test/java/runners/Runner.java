@@ -6,7 +6,7 @@ import org.junit.runner.RunWith;
 
 @RunWith(Cucumber.class)
 @CucumberOptions(
-        features = "src/test/resources/features",
+        features = "src/test/resourcess/features",
         glue = "stepdefinitions",
         tags = "@wip",
         dryRun = false
@@ -45,11 +45,5 @@ public class Runner {
             buradaki test passed EKSİK ADIM YOK" anlamina gelmektedir
 
 
-            echo "# Cucumber-Practice" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/hasansennn/Cucumber-Practice.git
-git push -u origin main
-     */
+
+   */
