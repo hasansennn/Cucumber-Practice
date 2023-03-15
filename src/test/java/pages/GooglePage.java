@@ -21,8 +21,12 @@ public class GooglePage {
     public GooglePage(){
         PageFactory.initElements(Driver.getDriver(),this);
     }
-    @FindBy(xpath="//input[@class='gLFyf']")
-    public WebElement aramaKutusu;
+    @FindBy(xpath = "//*[text()='Reject all']")
+    public WebElement cokkies;
 
+    @FindBy(xpath = "//input[@class='gLFyf']")
+    public WebElement googleSearchBox;
 
+    @FindBy(xpath = "//span[@class='DFlfde SwHCTb']")
+    public WebElement paraKarsilastirmasi;
 }

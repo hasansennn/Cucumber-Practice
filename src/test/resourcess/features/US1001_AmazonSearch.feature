@@ -1,3 +1,4 @@
+
 Feature: US1001 Kullanici Amazon sayfasinda arama yapar
 @hasan
   Scenario: TC01 Kullanici Amazonda Nutella aratir

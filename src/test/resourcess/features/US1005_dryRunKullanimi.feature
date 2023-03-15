@@ -1,6 +1,5 @@
 Feature: US1005 Kullanici amazonda urun aratip 2. urun detaylarini test eder
 
-  @wip
 
   Scenario: TC09 Kullanici arama sonuclarinda istedigi urunu test edebilmeli
 

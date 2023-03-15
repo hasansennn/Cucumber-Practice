@@ -1,0 +1,12 @@
+pages\GooglePage.class
+stepdefinitions\GoogleStepdefinitions.class
+pages\Hooks\hooks.class
+pages\AmazonPage.class
+stepdefinitions\AmazonStepdefinitions.class
+utilities\ConfigReader.class
+utilities\ReusableMethods$2.class
+runners\Runner.class
+utilities\ReusableMethods$1.class
+utilities\Driver.class
+pages\QdPage.class
+utilities\ReusableMethods.class
